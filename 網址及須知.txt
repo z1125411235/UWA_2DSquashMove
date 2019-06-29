@@ -1,0 +1,7 @@
+版本:Unity 2017.4.27f1
+
+UWA網址__https://lab.uwa4d.com/lab/5b5625bad7f10a201fd85d40?fbclid=IwAR3DZBLgjCqFj1AVlQDT1fN3HTANWSyzKUUCJZx_GskfpAiy_vAy27oXKno
+
+本人Github網址__https://github.com/z1125411235/UWA_2DSquashMove
+
+官方Github網址__https://github.com/keenanwoodall/SimpleSquashAndStretchMovement2D
